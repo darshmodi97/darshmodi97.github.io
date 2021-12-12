@@ -577,8 +577,8 @@
                    },
                    error: function (data)
                    {
-                       form.reset();
-                       toastr.error('Form submitted successfully.')
+                       form.trigger('reset');
+                       toastr.success('Form submitted successfully.')
                    }
                  });
 
