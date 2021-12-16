@@ -520,6 +520,21 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-weight: 400;
     letter-spacing: 1px;
     border: 1px solid #AF9483;
+    border-radius: 30px;
+}
+.single-service .custom-readmore{
+    display: inline-block;
+    padding: 6px 20px;
+    color: #AF9483;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    border: 1px solid #AF9483;
+    border-radius: 30px;
+}
+.single-service .custom-readmore:hover {
+    color: #ffffff;
+    background: #AF9483;
 }
 
 .about a:hover {
