@@ -473,7 +473,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (min-width: 992px) {
     .section-header p {
-        width: 70%;
+        /* width: 70%; */
     }
 }
 
@@ -855,7 +855,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .portfolio .portfolio-item figure {
-    background: #AF9483;
+    /* background: #AF9483; */
     overflow: hidden;
     height: 220px;
     position: relative;
